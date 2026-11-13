@@ -1,0 +1,65 @@
+[
+  {
+    "file": "concert.jpg",
+    "source": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=1400&q=82&fit=crop",
+    "license": "https://unsplash.com/license",
+    "purpose": "Тематическая иллюстрация; не фотография персонажа или события учебного текста",
+    "bytes": 195536
+  },
+  {
+    "file": "vinyl.jpg",
+    "source": "https://images.unsplash.com/photo-1461360228754-6e81c478b882?w=1400&q=82&fit=crop",
+    "license": "https://unsplash.com/license",
+    "purpose": "Тематическая иллюстрация; не фотография персонажа или события учебного текста",
+    "bytes": 234039
+  },
+  {
+    "file": "guitar.jpg",
+    "source": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=1400&q=82&fit=crop",
+    "license": "https://unsplash.com/license",
+    "purpose": "Тематическая иллюстрация; не фотография персонажа или события учебного текста",
+    "bytes": 93296
+  },
+  {
+    "file": "studio.jpg",
+    "source": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=1400&q=82&fit=crop",
+    "license": "https://unsplash.com/license",
+    "purpose": "Тематическая иллюстрация; не фотография персонажа или события учебного текста",
+    "bytes": 233733
+  },
+  {
+    "file": "crowd.jpg",
+    "source": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=1400&q=82&fit=crop",
+    "license": "https://unsplash.com/license",
+    "purpose": "Тематическая иллюстрация; не фотография персонажа или события учебного текста",
+    "bytes": 189885
+  },
+  {
+    "file": "headphones.jpg",
+    "source": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=1400&q=82&fit=crop",
+    "license": "https://unsplash.com/license",
+    "purpose": "Тематическая иллюстрация; не фотография персонажа или события учебного текста",
+    "bytes": 114073
+  },
+  {
+    "file": "microphone.jpg",
+    "source": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=1400&q=82&fit=crop",
+    "license": "https://unsplash.com/license",
+    "purpose": "Тематическая иллюстрация; не фотография персонажа или события учебного текста",
+    "bytes": 252358
+  },
+  {
+    "file": "piano.jpg",
+    "source": "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?w=1400&q=82&fit=crop",
+    "license": "https://unsplash.com/license",
+    "purpose": "Тематическая иллюстрация; не фотография персонажа или события учебного текста",
+    "bytes": 127753
+  },
+  {
+    "file": "live.jpg",
+    "source": "https://images.unsplash.com/photo-1506157786151-b8491531f063?w=1400&q=82&fit=crop",
+    "license": "https://unsplash.com/license",
+    "purpose": "Тематическая иллюстрация; не фотография персонажа или события учебного текста",
+    "bytes": 190566
+  }
+]
