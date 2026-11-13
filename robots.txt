@@ -1,0 +1,6 @@
+# Prepared for the host listed in the lab 14 report.
+# Crawlers read robots.txt at the hostname root. A file inside a project path
+# such as /WebTulGU/robots.txt does not control the entire github.io hostname.
+User-agent: *
+Allow: /
+Sitemap: https://azazinfan.github.io/music-blog/sitemap.xml
